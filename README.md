@@ -39,12 +39,55 @@ This project goes over how to add a rule to Outlook emails using Microsoft 365 E
 
 <table>
   <tr>
-    <td><img src="https://imgur.com/NHGBHO4.png" height="100%" width="100%" /></td>
-    <td><img src="https://imgur.com/Fi1Cr8b.png" height="100%" width="100%" /></td>
+    <td><img src="https://imgur.com/bYkQ8lh.png" height="100%" width="100%" /></td>
+    <td><img src="https://imgur.com/ceSfhB2.png" height="100%" width="100%" /></td>
   </tr>
 </table>
 
 <br /><br />
 
 
-<div
+<div style="text-align:center;">
+  <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>Click: Mail flow (far-left tab).</b></span>  
+<br/>
+
+<table>
+  <tr>
+    <td><img src="https://imgur.com/uhWzcr8.png" height="100%" width="100%" /></td>
+</table>
+
+<br /><br />
+
+
+<div style="text-align:center;">
+  <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>Click: Rules.</b></span>  
+<br/>
+
+<table>
+  <tr>
+    <td><img src="https://imgur.com/dPMw2Oi.png" height="100%" width="100%" /></td>
+    <td><img src="https://imgur.com/gMnHZyd.png" height="100%" width="100%" /></td>
+  </tr>
+</table>
+
+<br /><br />
+
+
+<div style="text-align:center;">
+  <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>Click: Add a rule (middle-left, under title: Rules).</b></span>  
+<br/>
+
+<table>
+  <tr>
+    <td><img src="https://imgur.com/6a9TXOB.png" height="100%" width="100%" /></td>
+    <td><img src="https://imgur.com/oJYEO2z.png" height="100%" width="100%" /></td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td><img src="https://imgur.com/ObvgDAj.png" height="100%" width="100%" /></td>
+  </tr>
+</table>
+
+<br /><br />
